@@ -142,7 +142,7 @@ class wowprogress_widget extends WP_Widget {
 				$exp = $raid['exp'];
 
 				// Output header
-				echo TAB.'<div class="expansion_head"><img src="' . self::asset_url(self::expansion_path($exp)) . '" /></div>'.NL;
+				//echo TAB.'<div class="expansion_head"><img src="' . self::asset_url(self::expansion_path($exp)) . '" /></div>'.NL;
 
 				// Start raids list
 				echo TAB.'<ul class="expansion">'.NL;
