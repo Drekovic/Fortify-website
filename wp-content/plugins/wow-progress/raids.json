@@ -103,6 +103,16 @@
         "name" : "Vault of Archavon",
         "tag" : "voa"
     },
+	{
+        "achievement": false,
+        "background": "sh",
+        "bosses": [
+           
+        ],
+        "exp": "heroes_wow",
+        "name": "Shattered halls",
+        "tag": "sh"
+    },
     {
         "achievement": false,
         "background": "zg",
@@ -125,6 +135,21 @@
         "name": "Zul'Gurub",
         "tag": "zg"
     },
+	    {
+        "achievement": false,
+        "background": "za",
+        "bosses": [
+			"Narlok",
+			"Jan'alai",
+			"Akil'zon",
+			"Halazzi",
+			"Hex Lord Malacrass",
+			"Zul'jin"
+        ],
+        "exp": "heroes_wow",
+        "name": "Zul'Aman",
+        "tag": "za"
+    },
     {
         "achievement" : false,
         "background" : "swp",
@@ -139,6 +164,16 @@
         "exp" : "heroes_wow",
         "name" : "Sunwell Plateau",
         "tag" : "swp"
+    },
+	    {
+        "achievement" : false,
+        "background" : "rfc",
+        "bosses" : [
+
+        ],
+        "exp" : "heroes_wow",
+        "name" : "Ragefire Chasm",
+        "tag" : "rfc"
     },
 	{
         "achievement" : false,
@@ -178,13 +213,7 @@
         "achievement": false,
         "background": "wb_vanilla",
         "bosses": [
-            "Omen",
-            "Azuregos",
-            "Lord Kazzak",
-            "Emeriss",
-            "Lethon",
-            "Taerar",
-            "Ysondre"
+        
         ],
         "exp": "heroes_wow",
         "name": "World Bosses",
